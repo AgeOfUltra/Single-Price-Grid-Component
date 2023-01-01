@@ -27,9 +27,9 @@ body{
 main{
     flex-basis:100%;
 }
-main h3{
+main h1{
     color:hsl(179, 62%, 43%);
-    padding:1.5rem;
+     padding:0rem 1.5rem;
 }
 .offer
 {
