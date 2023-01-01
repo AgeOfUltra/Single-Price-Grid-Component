@@ -59,7 +59,7 @@ section{
     background-color: #4ABEBD;
     border-bottom-right-radius: 1rem;
 }
-#highlight{
+.highlight{
     padding:0.5rem 1rem 1rem 0rem;
 }
 .sign_up{
